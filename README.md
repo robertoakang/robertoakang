@@ -31,7 +31,7 @@ I am a Backend Developer from São Paulo - Brazil.
 - 👾 I love games, it's my real passion;<br>
 - 👨‍💻 I like to spend time programming what comes to my mind (really anything);<br>
 - 🐱 I'm a fan of cats, I have two that are my life: Aslan and Kion;<br>
-- ⚡ In my free time I study clean architecture, unit tests and read tech articles (just kidding, I just play all the free time I have);<br>
+- ⚡ In my free time I study clean architecture, unit tests and read tech articles (just kidding, I just play for all my free time);<br>
 - 🔭 I’m working as a Backend Developer focoused in Node.js.<br>
 
 ---
