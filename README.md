@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://www.linkedin.com/in/robertoakang"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=70A5FD" alt="LinkedIn"></a>
     <a href="https://github.com/robertoakang/"><img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=70A5FD" alt="Github"></a>
-    <a href="https://steamcommunity.com/id/zkatsumii/"><img src="https://img.shields.io/badge/Steam-1A1B27?style=for-the-badge&logo=steam&logoColor=70A5FD" alt="Steam"></a>
+    <a href="https://steamcommunity.com/id/zkatsumi/"><img src="https://img.shields.io/badge/Steam-1A1B27?style=for-the-badge&logo=steam&logoColor=70A5FD" alt="Steam"></a>
 </p>
 
 
