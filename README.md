@@ -1,52 +1,54 @@
-<!--
-**robertoakang/robertoakang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.linkedin.com/in/robertoakang" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/zkatsumi_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/zkatsumi_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+###
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/robertoakang"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=70A5FD" alt="LinkedIn"></a>
-    <a href="https://github.com/robertoakang/"><img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=70A5FD" alt="Github"></a>
-    <a href="https://steamcommunity.com/id/zkatsumi/"><img src="https://img.shields.io/badge/Steam-1A1B27?style=for-the-badge&logo=steam&logoColor=70A5FD" alt="Steam"></a>
-</p>
+<h3 align="center">WELCOME TO MY GITHUB PROFILE</h3>
 
+###
 
-<h1 align="center">WELCOME TO MY GITHUB PROFILE </h1>
+<h4 align="left">About me</h4>
 
-### A few things about me:<br>
+###
 
-I am a Backend Developer from São Paulo - Brazil.
+<p align="left">I am a Software Engineer from São Paulo - Brazil but living in Portugal.<br><br>- 👾 I love games, it's my real passion;<br>- 👨‍💻 I like to spend time programming what comes to my mind (really anything);<br>- 🐱 I'm a fan of cats, I have two that are my life: Aslan and Kion;<br>- ⚡ In my free time I study clean architecture, do unit tests, and read tech articles (just kidding, I play for all my free time);<br>- 🔭 I’m working as a Backend Developer focused on Node.js.</p>
 
-- 👾 I love games, it's my real passion;<br>
-- 👨‍💻 I like to spend time programming what comes to my mind (really anything);<br>
-- 🐱 I'm a fan of cats, I have two that are my life: Aslan and Kion;<br>
-- ⚡ In my free time I study clean architecture, unit tests and read tech articles (just kidding, I just play for all my free time);<br>
-- 🔭 I’m working as a Backend Developer focoused in Node.js.<br>
+###
 
----
+<h4 align="left">My favorite tech stack and tools</h4>
 
-### 🛠 &nbsp;Languages and Tools :
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
-<!--<img src="https://github.com/devicons/devicon/tree/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="60" height="60"/>&nbsp;-->
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" title="RabbitMQ" alt="RabbitMQ" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernates" alt="Kubernates" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp;
-</p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=robertoakang" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=robertoakang" height="150" alt="languages graph"  />
+</div>
+
+###
